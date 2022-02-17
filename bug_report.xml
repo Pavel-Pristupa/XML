@@ -1,1 +1,15 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<bugreport>
+	<id>1</id>
+	<project>Homework</project>
+	<issue_type>bug</issue_type>
+	<summary>User doesn't know what to enter into the summary of the bug report</summary>
+	<priority>high</priority>
+	<description>The user doing this particular homework doesn't have and idead what to enter into the bugreport according to GitHub Home_work in point 18</description>
+	<STR>No steprs provided, contents clear from 'description'</STR>
+	<AR>321</AR>
+	<ER>123</ER>
+	<environment>Windows 10 Pro v ..., Google Chrome v ...</environment>
+	<reporter>Pavel Pristupa</reporter>
+	<assignee>to be assigned</assignee>
+</bugreport>
